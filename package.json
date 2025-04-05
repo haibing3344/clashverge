@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "sitemap": "^8.0.0",
+    "vitepress": "^1.6.3"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.3",
+    "markdown-it-multimd-table": "^4.2.3"
+  }
+}

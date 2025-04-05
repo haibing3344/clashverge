@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VitePress Documentation</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        /* Custom styles */
+        .sidebar-link:hover .link-arrow {
+            transform: translateX(3px);
+        }
+        .active-nav-item {
+            border-left: 4px solid #4f46e5;
+            background-color: #f5f3ff;
+        }
+        .content-enter {
+            animation: fadeIn 0.3s ease-in-out;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body class="bg-gray-50 font-sans">
+    <div class="flex h-screen overflow-hidden">
+        <!-- Sidebar -->
+        <div class="hidden md:flex md:flex-shrink-0">
+            <div class="flex flex-col w-64 border-r border-gray-200 bg-white">
+                <div class="flex items-center h-16 px-4 border-b border-gray-200">
+                    <div class="flex items-center">
+                        <i class="fas fa-book text-indigo-600 text-xl mr-2"></i>
+                        <span class="text-xl font-semibold text-gray-900">VitePress</span>
+                    </div>
+                </div>
+                <div class="flex flex-col flex-grow overflow-y-auto">
+                    <nav class="flex-1 px-2 py-4 space-y-1">
+                        <div class="space-y-2">
+                            <h3 class="px-3 text-xs font-semibold text-gray-500 uppercase tracking-wider">Main Navigation</h3>
+                            <div class="space-y-1">
+                                <a href="#" class="group flex items-center px-3 py-2 text-sm font-medium rounded-md text-gray-900 hover:bg-gray-100 hover:text-gray-900 active-nav-item">
+                                    <i class="fas fa-home text-gray-500 group-hover:text-indigo-600 mr-3"></i>
+                                    <span>Home</span>
+                                    <i class="fas fa-chevron-right text-gray-400 ml-auto link-arrow transition-transform"></i>
+                                </a>
+                                <a href="#" class="group flex items-center px-3 py-2 text-sm font-medium rounded-md text-gray-600 hover:bg-gray-100 hover:text-gray-900 sidebar-link">
+                                    <i class="fas fa-file-alt text-gray-500 group-hover:text-indigo-600 mr-3"></i>
+                                    <span>Documentation</span>
+                                    <i class="fas fa-chevron-right text-gray-400 ml-auto link-arrow transition-transform"></i>
+                                </a>
+                                <a href="#" class="group flex items-center px-3 py-2 text-sm font-medium rounded-md text-gray-600 hover:bg-gray-100 hover:text-gray-900 sidebar-link">
+                                    <i class="fas fa-cog text-gray-500 group-hover:text-indigo-600 mr-3"></i>
+                                    <span>Configuration</span>
+                                    <i class="fas fa-chevron-right text-gray-400 ml-auto link-arrow transition-transform"></i>
+                                </a>
+                            </div>
+                        </div>
+                        
+                        <div class="space-y-2 pt-4">
+                            <h3 class="px-3 text-xs font-semibold text-gray-500 uppercase tracking-wider">Sidebar Navigation</h3>
+                            <div class="space-y-1">
+                                <a href="#" class="group flex items-center px-3 py-2 text-sm font-medium rounded-md text-gray-600 hover:bg-gray-100 hover:text-gray-900 sidebar-link">
+                                    <i class="fas fa-rocket text-gray-500 group-hover:text-indigo-600 mr-3"></i>
+                                    <span>Getting Started</span>
+                                    <i class="fas fa-chevron-right text-gray-400 ml-auto link-arrow transition-transform"></i>
+                                </a>
+                                <a href="#" class="group flex items-center px-3 py-2 text-sm font-medium rounded-md text-gray-600 hover:bg-gray-100 hover:text-gray-900 sidebar-link">
+                                    <i class="fas fa-code text-gray-500 group-hover:text-indigo-600 mr-3"></i>
+                                    <span>API Reference</span>
+                                    <i class="fas fa-chevron-right text-gray-400 ml-auto link-arrow transition-transform"></i>
+                                </a>
+                                <a href="#" class="group flex items-center px-3 py-2 text-sm font-medium rounded-md text-gray-600 hover:bg-gray-100 hover:text-gray-900 sidebar-link">
+                                    <i class="fas fa-lightbulb text-gray-500 group-hover:text-indigo-600 mr-3"></i>
+                                    <span>Examples</span>
+                                    <i class="fas fa-chevron-right text-gray-400 ml-auto link-arrow transition-transform"></i>
+                                </a>
+                                <a href="#" class="group flex items-center px-3 py-2 text-sm font-medium rounded-md text-gray-600 hover:bg-gray-100 hover:text-gray-900 sidebar-link">
+                                    <i class="fas fa-question-circle text-gray-500 group-hover:text-indigo-600 mr-3"></i>
+                                    <span>FAQ</span>
+                                    <i class="fas fa-chevron-right text-gray-400 ml-auto link-arrow transition-transform"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+                <div class="p-4 border-t border-gray-200">
+                    <div class="flex items-center">
+                        <img class="w-8 h-8 rounded-full" src="https://avatars.githubusercontent.com/u/1?v=4" alt="User avatar">
+                        <div class="ml-3">
+                            <p class="text-sm font-medium text-gray-900">John Doe</p>
+                            <p class="text-xs font-medium text-gray-500">Admin</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main content -->
+        <div class="flex flex-col flex-1 overflow-hidden">
+            <!-- Top navigation -->
+            <div class="flex items-center justify-between h-16 px-4 border-b border-gray-200 bg-white">
+                <div class="flex items-center md:hidden">
+                    <button class="text-gray-500 hover:text-gray-600 focus:outline-none">
+                        <i class="fas fa-bars"></i>
+                    </button>
+                </div>
+                <div class="flex-1 flex justify-between items-center">
+                    <div class="flex-1 flex">
+                        <div class="flex-1 flex">
+                            <div class="w-full max-w-lg lg:max-w-xs">
+                                <div class="relative">
+                                    <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                                        <i class="fas fa-search text-gray-400"></i>
+                                    </div>
+                                    <input class="block w-full pl-10 pr-3 py-2 border border-gray-300 rounded-md leading-5 bg-white placeholder-gray-500 focus:outline-none focus:placeholder-gray-400 focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" placeholder="Search" type="search">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="ml-4 flex items-center md:ml-6">
+                        <button class="p-1 rounded-full text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                            <i class="fas fa-bell"></i>
+                        </button>
+                        <div class="ml-3 relative">
+                            <div>
+                                <button class="max-w-xs flex items-center text-sm rounded-full focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                                    <img class="h-8 w-8 rounded-full" src="https://avatars.githubusercontent.com/u/1?v=4" alt="">
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Page content -->
+            <div class="flex-1 overflow-auto p-6 content-enter">
+                <div class="max-w-4xl mx-auto">
+                    <div class="mb-8">
+                        <h1 class="text-3xl font-bold text-gray-900 mb-2">Welcome to VitePress</h1>
+                        <p class="text-lg text-gray-600">Modern documentation with Vite and Vue.js</p>
+                    </div>
+
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+                        <div class="bg-white p-6 rounded-lg shadow-sm border border-gray-200 hover:shadow-md transition-shadow">
+                            <div class="flex items-center mb-4">
+                                <div class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-indigo-100 text-indigo-600">
+                                    <i class="fas fa-rocket"></i>
+                                </div>
+                                <h3 class="ml-4 text-lg font-medium text-gray-900">Getting Started</h3>
+                            </div>
+                            <p class="text-gray-600 mb-4">Learn how to install and configure VitePress for your project.</p>
+                            <a href="#" class="inline-flex items-center text-indigo-600 hover:text-indigo-800">
+                                View guide
+                                <i class="fas fa-chevron-right ml-1 text-sm"></i>
+                            </a>
+                        </div>
+
+                        <div class="bg-white p-6 rounded-lg shadow-sm border border-gray-200 hover:shadow-md transition-shadow">
+                            <div class="flex items-center mb-4">
+                                <div class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-purple-100 text-purple-600">
+                                    <i class="fas fa-code"></i>
+                                </div>
+                                <h3 class="ml-4 text-lg font-medium text-gray-900">API Reference</h3>
+                            </div>
+                            <p class="text-gray-600 mb-4">Complete reference for all available configuration options.</p>
+                            <a href="#" class="inline-flex items-center text-indigo-600 hover:text-indigo-800">
+                                Explore API
+                                <i class="fas fa-chevron-right ml-1 text-sm"></i>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="bg-white p-6 rounded-lg shadow-sm border border-gray-200 mb-8">
+                        <h2 class="text-xl font-semibold text-gray-900 mb-4">Recent Updates</h2>
+                        <div class="space-y-4">
+                            <div class="border-l-4 border-indigo-200 pl-4 py-1">
+                                <div class="flex items-center text-sm">
+                                    <span class="font-medium text-indigo-600">v1.2.0</span>
+                                    <span class="ml-2 text-gray-500">Released 3 days ago</span>
+                                </div>
+                                <p class="mt-1 text-gray-600">Added support for custom theme components and improved build performance.</p>
+                            </div>
+                            <div class="border-l-4 border-indigo-200 pl-4 py-1">
+                                <div class="flex items-center text-sm">
+                                    <span class="font-medium text-indigo-600">v1.1.5</span>
+                                    <span class="ml-2 text-gray-500">Released 2 weeks ago</span>
+                                </div>
+                                <p class="mt-1 text-gray-600">Fixed several bugs related to markdown parsing and navigation.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="bg-white p-6 rounded-lg shadow-sm border border-gray-200">
+                        <h2 class="text-xl font-semibold text-gray-900 mb-4">Need Help?</h2>
+                        <p class="text-gray-600 mb-4">If you're having trouble with VitePress, check out our documentation or ask the community.</p>
+                        <div class="flex space-x-4">
+                            <a href="#" class="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                                <i class="fas fa-book-open mr-2"></i>
+                                Documentation
+                            </a>
+                            <a href="#" class="inline-flex items-center px-4 py-2 border border-gray-300 text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                                <i class="fab fa-github mr-2"></i>
+                                GitHub Issues
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Simple navigation active state management
+        document.addEventListener('DOMContentLoaded', function() {
+            const navLinks = document.querySelectorAll('.sidebar-link');
+            
+            navLinks.forEach(link => {
+                link.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    
+                    // Remove active class from all links
+                    document.querySelectorAll('.sidebar-link, .active-nav-item').forEach(el => {
+                        el.classList.remove('active-nav-item');
+                    });
+                    
+                    // Add active class to clicked link
+                    this.classList.add('active-nav-item');
+                    
+                    // Simulate content loading
+                    const content = document.querySelector('.content-enter');
+                    content.classList.remove('content-enter');
+                    void content.offsetWidth; // Trigger reflow
+                    content.classList.add('content-enter');
+                });
+            });
+        });
+    </script>
+</body>
+</html>

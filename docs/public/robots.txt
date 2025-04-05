@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /assets/
+
+Sitemap: https://www.clash-verge-rev.org/sitemap.xml
