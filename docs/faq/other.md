@@ -5,6 +5,9 @@ head:
   - - meta
     - name: keywords
       content: Clash Verge Rev 常见问题, 代理冲突, 订阅导入失败, 命令行代理, hosts冲突, Watt Toolkit冲突
+  - - link
+    - rel: canonical
+      href: https://clashverger.uk/guide/other.html
 ---
 # ClashVergeRev常见问题
 ## 找不到系统文件 os error
@@ -44,7 +47,7 @@ rm ~\AppData\Roaming\io.github.clash-verge-rev.clash-verge-rev\logs -r -fo
 
 ## 导入订阅报错 401
 
-![导入订阅报错](../public/assets/faq/other/subscibe_import_error.png)
+![导入订阅报错](/assets/faq/other/subscibe_import_error.png)
 
 解决方案: 左侧菜单“设置”，右下方找到“配置目录”，删除里面所有文件，重启软件；如果还是不行，则卸载老版本，重新安装。
 
@@ -52,7 +55,7 @@ rm ~\AppData\Roaming\io.github.clash-verge-rev.clash-verge-rev\logs -r -fo
 
 > error trying to connect: invalid peer certificate: UnknownIssuer
 
-![无效的证书](../public/assets/faq/other/certificate.png)
+![无效的证书](/assets/faq/other/certificate.png)
 
 解决方案: 勾选 `允许无效证书（危险）`。
 
@@ -148,14 +151,14 @@ function main(config) {
 解决办法: 主动点击 :fontawesome-solid-wifi: 按钮，并等待代理组内节点全部测试完成。
 
 <video controls>
-  <source src="../public/assets/faq/other/fixed.webm">
+  <source src="/assets/faq/other/fixed.webm">
 </video>
 
 ## 测试界面异常超时
 
 > 测试界面进行测试时，但是延迟测试立马提示超时，实际上网站均可以正常访问。可能还会伴随着实际体验延迟较大、TUN 模式比系统代理模式卡顿的情况。
 
-![无效证书](../public/assets/faq/other/invalid_certificate.png)
+![无效证书](/assets/faq/other/invalid_certificate.png)
 
 - 可能原因: 杀毒软件（如火绒）对 HTTPS 连接进行加密，出现证书不一致的情况报错导致。
 

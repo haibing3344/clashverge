@@ -4,7 +4,10 @@ description: 全面了解 Clash Verge 的 URL Schemes 导入配置方法、Windo
 head:
   - - meta
     - name: keywords
-      content: Clash Verge Rev, 系统代理, TUN模式, 规则模式, 全局模式, 直连模式, 服务模式, Meta内核,
+      content: Clash Verge Rev, 系统代理, TUN模式, 规则模式, 全局模式, 直连模式, 服务模式, Meta内核
+  - - link
+    - rel: canonical
+      href: https://clashverger.uk/guide/url_schemes.html
 ---
 # Clash Verge Rev URL Schemes 配置导入与订阅管理
 ## 简介
@@ -96,7 +99,7 @@ profile-web-page-url: https://example.com
     - 此功能要求Clash Verge Rev版本至少为 `v1.6.0`。
 
 <video controls>
-  <source src="../public/assets/guide/url_schemes/profile_web_page_url.webm">
+  <source src="/assets/guide/url_schemes/profile_web_page_url.webm">
 </video>
 
 ::: tip 🎉 节点推荐

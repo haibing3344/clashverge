@@ -5,6 +5,9 @@ head:
   - - meta
     - name: keywords
       content: Clash Verge Rev Windows问题, WebView2安装, TUN模式异常, 系统代理失效, UWP应用代理
+  - - link
+    - rel: canonical
+      href: https://clashverger.uk/guide/windows.html
 ---
 # Clash Verge Rev常见问题解决指南
 ## 打开TUN模式后网络异常
@@ -19,7 +22,7 @@ head:
 
 ## 此应用无法在你的电脑上运行
 
-![can_not_run](../public/assets/faq/windows/can_not_run.png)
+![can_not_run](/assets/faq/windows/can_not_run.png)
 99.99% 是因为你下载错了文件，请检查你是否下载了对应你机器架构的安装包。
 
 对于大部分人来说，应该下载 `x64` 版本，而不是 `arm64` 版本。
@@ -88,7 +91,7 @@ head:
 - 可能原因: 由于未知原因（如断电、蓝屏或其他原因），系统代理未能正确地被关闭（即使 Clash 已退出），但实际上 Windows 的系统代理设置开关仍然开着。
 - 解决办法: 打开 `Windows 设置` -> `网络和 Internet` -> `代理` -> `手动设置代理`，关闭 `使用代理服务器`。
 
-![关闭系统代理](../public/assets/faq/windows/close_system_proxy.png)
+![关闭系统代理](/assets/faq/windows/close_system_proxy.png)
 
 ## 无法选中订阅
 
@@ -102,7 +105,7 @@ net start hns
 ```
 
 或者手动打开服务设置，重新启动 `Hot Network Service`。
-![Hot Network Service](../public/assets/faq/windows/hot_network_service.png)
+![Hot Network Service](/assets/faq/windows/hot_network_service.png)
 
 ## 应用内更新后自动安装到了 C 盘默认目录/应用内更新后仍然是旧版本
 
@@ -129,7 +132,7 @@ net start hns
 
 > Windows 的 `Windows 设置` -> `网络和 Internet` -> `代理` 中显示系统代理已经开启，且指向了正确的端口。Clash Verge Rev 的 `设置` -> `系统代理` 小齿轮界面中，当前系统代理的开启状态却显示为未启用。
 
-| ![系统代理状态为false](../public/assets/faq/windows/sysproxy_enabled.png) | ![系统代理状态为false](../public/assets/faq/windows/sysproxy_states_false.png) |
+| ![系统代理状态为false](/assets/faq/windows/sysproxy_enabled.png) | ![系统代理状态为false](/assets/faq/windows/sysproxy_states_false.png) |
 | ------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 
 解决办法
@@ -138,7 +141,7 @@ net start hns
 - 打开注册表`HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Connections`删除乱码名称的条目([引用博客](https://myth.cx/p/windows-proxy/))。
 - **删除**原有的宽带拨号设置，然后**重新创建**宽带拨号设置（<font color="red">连接名称不要使用中文</font>）。
 
-![连接名称默认中文](../public/assets/faq/windows/broadband_dialing_setting.png)
+![连接名称默认中文](/assets/faq/windows/broadband_dialing_setting.png)
 
 ## 版本更新后图标没有变化/老版图标/图标白色方块
 

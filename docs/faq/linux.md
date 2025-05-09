@@ -5,6 +5,9 @@ head:
   - - meta
     - name: keywords
       content: Clash Verge Rev Linux问题, Ubuntu 依赖安装, libwebkit2gtk, libjavascriptcoregtk, 无UI使用, Mihomo命令行, Linux代理设置, Debian系统兼容性
+  - - link
+    - rel: canonical
+      href: https://clashverger.uk/faq/linux.html
 ---
 # ClashVergeRev-Linux依赖安装与无界面使用
 

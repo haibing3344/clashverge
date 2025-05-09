@@ -28,7 +28,7 @@ hero:
       link: /install/install
     - theme: alt
       text: 🎉机场推荐
-      link: https://20220607.xyz
+      link: https://1yuan.uk/subscribe.html
 
 features:
   - title: 内核

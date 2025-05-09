@@ -9,14 +9,14 @@ head:
 ---
 
 <h1 align="center">
-  <img src="./public/assets/logo.png" alt="Clash Verge Rev" width="128" />
+  <img src="/assets/logo.png" alt="Clash Verge Rev" width="128" />
   <br>
   <a href="https://github.com/zzzgydi/clash-verge" target="_blank">Clash Verge</a> 的延续
   <br>
 </h1>
 <h3 align="center">基于 <a href="https://github.com/tauri-apps/tauri" target="_blank">Tauri</a> 的 Mihomo GUI</h3>
 <a href="https://t.me/clash_verge_rev" target="_blank">
-<img src="./public/assets/icons/telegram.svg" alt="Clash Verge Rev" width="24" style="position: relative;top: 6px;">Telegram 群组:@clash_verge_rev
+<img src="/assets/icons/telegram.svg" alt="Clash Verge Rev" width="24" style="position: relative;top: 6px;">Telegram 群组:@clash_verge_rev
 </a>
 
 ## 特性
@@ -32,7 +32,7 @@ head:
 
 | 深色                               | 浅色                                |
 | ---------------------------------- | ----------------------------------- |
-| ![Clash Verge Rev 深色模式界面预览](./public/assets/preview_dark.png) | ![Clash Verge Rev 浅色模式界面预览](./public/assets/preview_light.png) |
+| ![Clash Verge Rev 深色模式界面预览](/assets/preview_dark.png) | ![Clash Verge Rev 浅色模式界面预览](/assets/preview_light.png) |
 
 ## 机场推荐
 

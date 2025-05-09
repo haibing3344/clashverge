@@ -1,4 +1,14 @@
-
+---
+title: 新增脚本
+description: 如果创建了多个 Script 配置，按照启用顺序先后，链式执行。配置修改后需要重新启用，生效时卡片有颜色标识（右键配置 `禁用` 再 `启用` ，也可以点击右上角的 🔥 按钮）。
+head:
+  - - meta
+    - name: keywords
+      content: Clash Verge Rev, 新增脚本, JavaScript 脚本, 分流配置, config 对象, profileName, 全局扩展脚本, 网络代理规则, Clash Mihomo, 流量分流, 代理配置
+  - - link
+    - rel: canonical
+      href: https://clashverger.uk/guide/script.html
+---
 
 # 新增脚本
 
@@ -8,7 +18,7 @@
     - **<font color="red">配置修改后需要重新启用</font>**，生效时卡片有颜色标识（右键配置 `禁用` 再 `启用` ，也可以点击右上角的 🔥 按钮）。
 
 <video controls>
-  <source src="../public/assets/guide/script/script.webm">
+  <source src="/assets/guide/script/script.webm">
 </video>
 
 ::: tip 🎉 节点推荐

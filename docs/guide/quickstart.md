@@ -6,6 +6,9 @@ head:
   - - meta
     - name: keywords
       content: Clash Verge Rev, Clash Verge, Clash, Clash Meta, Clash GUI, Clash 客户端, 代理工具, 网络代理, 开源代理, 跨平台代理, Proxy Client, Clash for Windows, Clash for macOS, Clash for Linux, TUN模式, Tauri, 图形界面, 免费代理工具, 开源软件, 下载
+  - - link
+    - rel: canonical
+      href: https://clashverger.uk/guide/quickstart.html
 ---
 # Clash Verge Rev 教程 - 快速上手
 ::: tip ⚠️注意
@@ -29,17 +32,17 @@ head:
 
 通过机场或者自建订阅导入节点和配置文件，以下以"[优信云](https://www.优信云.com/#/register?code=JRtE5uIV)"订阅演示：
 
-![airport_import](../public/assets/guide/quickstart/airport_import.png)
+![airport_import](/assets/guide/quickstart/airport_import.png)
 
-![verge_import](../public/assets/guide/quickstart/verge_import.png)
+![verge_import](/assets/guide/quickstart/verge_import.png)
 
 ## 选择节点和模式
 
-![verge_proxy](../public/assets/guide/quickstart/verge_proxy.png)
+![verge_proxy](/assets/guide/quickstart/verge_proxy.png)
 
 ## 打开代理(或开启 Tun 模式)
 
-![verge_enable_sysproxy](../public/assets/guide/quickstart/verge_enable_sysproxy.png)
+![verge_enable_sysproxy](/assets/guide/quickstart/verge_enable_sysproxy.png)
 
 > **系统代理**：（原理：通过上方开关自动修改操作系统的代理设置）能处理大部分通过浏览器的科学上网需求。
 

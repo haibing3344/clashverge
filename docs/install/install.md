@@ -5,6 +5,9 @@ head:
   - - meta
     - name: keywords
       content: Clash Verge Rev 下载, Clash Verge Rev 安装, Windows 安装教程, macOS 安装教程, Linux 安装教程, Clash 客户端下载, 代理软件安装
+  - - link
+    - rel: canonical
+      href: https://clashverger.uk/install/install.html
 ---
 # Clash Verge Rev 下载安装指南
 > [!warning]
@@ -137,7 +140,7 @@ sudo yum localinstall ./Clash.Verge_x.x.x-_xxx.rpm
 
   网盘下载地址：[https://wwic.lanzouo.com/b0zjttvgf](https://wwic.lanzouo.com/b0zjttvgf)   密码:68xi
     
-![mac_install](../public/assets/guide/quickstart/mac_install.png)
+![mac_install](/assets/guide/quickstart/mac_install.png)
 
 ## 源代码编译安装
 

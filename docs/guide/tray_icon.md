@@ -5,6 +5,9 @@ head:
   - - meta
     - name: keywords
       content: Clash Verge Rev, 系统代理, TUN模式, 规则模式, 全局模式, 直连模式, 服务模式, Meta内核, Alpha内核, UA, User Agent, CFW, CFA, CMFA, XD, ZASH, OC, SC, Nikki, WARP
+  - - link
+    - rel: canonical
+      href: https://clashverger.uk/guide/tray_icon.html
 ---
 # Clash Verge Rev 托盘图标自定义指南
 ## 简介
@@ -28,7 +31,7 @@ Clash Verge Rev 托盘图标自定义指南，详细了解如何自定义 Clash 
 ## 操作方法
 
 <video controls>
-  <source src="../public/assets/guide/tray_icon/tray_icon.webm">
+  <source src="/assets/guide/tray_icon/tray_icon.webm">
 </video>
 
 ::: tip 🎉 节点推荐

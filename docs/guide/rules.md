@@ -5,6 +5,9 @@ head:
   - - meta
     - name: keywords
       content: Clash Verge Rev, 自定义路由规则, JavaScript 脚本, 分流配置, config 对象, profileName, 全局扩展脚本, 网络代理规则, Clash Mihomo, 流量分流, 代理配置
+  - - link
+    - rel: canonical
+      href: https://clashverger.uk/guide/rules.html
 ---
 
 <!-- prettier-ignore -->

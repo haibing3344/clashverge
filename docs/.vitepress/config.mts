@@ -14,7 +14,7 @@ export default defineConfig({
       { text: '介绍', link: '/about' },
       { text: '下载', link: '/install/install' },
       { text: '教程', link: '/guide/quickstart' },
-      { text: '机场推荐', link: 'https://20220607.xyz' },
+      { text: '🎉机场推荐', link: 'https://1yuan.uk/subscribe.html' },
       { text: '常见问题', link: '/faq/windows' }
     ],
 

@@ -5,6 +5,9 @@ head:
   - - meta
     - name: keywords
       content: Clash Verge Rev, 系统代理, TUN模式, 规则模式, 全局模式, 直连模式, 服务模式, Meta内核, Alpha内核, UA, User Agent, CFW, CFA, CMFA, XD, ZASH, OC, SC, Nikki, WARP
+  - - link
+    - rel: canonical
+      href: https://clashverger.uk/guide/term.html
 ---
 # Clash Verge Rev 系统代理 TUN模式 规则模式详解
 ## 专业术语
@@ -91,7 +94,7 @@ curl -A clash-verge/v2.0.4 -o config.yaml https://example.com
 
 ## XD
 
-- 一般指[metacubexd](https://github.com/MetaCubeX/metacubexd)，是一个基于 `Mihomo` 的 WEB UI 面板。更多面板详见[友情链接](../friendship.md#web-ui)。
+- 一般指[metacubexd](https://github.com/MetaCubeX/metacubexd)，是一个基于 `Mihomo` 的 WEB UI 面板。
 
 ## ZASH
 

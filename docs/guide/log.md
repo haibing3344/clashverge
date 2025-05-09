@@ -5,6 +5,9 @@ head:
   - - meta
     - name: keywords
       content: Clash Verge Rev, 日志查看, 日志导出, 故障排查, 错误复现, 日志级别, GUI日志, 内核日志, 代理软件故障解决
+  - - link
+    - rel: canonical
+      href: https://clashverger.uk/guide/log.html
 ---
 # Clash Verge Rev 日志查看与导出指南
 学习如何在 Clash Verge Rev 中查看、修改日志级别、复现错误并导出日志文件，帮助您快速解决使用过程中遇到的问题。
@@ -22,7 +25,7 @@ head:
     导出日志文件后，如果担心日志文件太大占用过多磁盘空间，可以将日志级别修改回 `INFO` 级别。
 
 <video controls>
-  <source src="../public/assets/guide/log/log.webm">
+  <source src="/assets/guide/log/log.webm">
 </video>
 
 ::: tip 🎉 节点推荐

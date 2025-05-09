@@ -5,6 +5,9 @@ head:
   - - meta
     - name: keywords
       content: CSS 注入, Clash Verge Rev
+  - - link
+    - rel: canonical
+      href: https://clashverger.uk/guide/css_injection.html
 ---
 # 自定义 Clash Verge Rev 界面样式
 ## CSS 注入
@@ -19,7 +22,7 @@ head:
     本教程要求有一定的 `CSS` 代码基础，可参考[CSS文档](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/First_steps)。
 
 <video controls>
-  <source src="../public/assets/guide/css_injection/css_injection.webm">
+  <source src="/assets/guide/css_injection/css_injection.webm">
 </video>
 
 ## CSS 示例代码

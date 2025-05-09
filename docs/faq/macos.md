@@ -5,6 +5,9 @@ head:
   - - meta
     - name: keywords
       content: Clash Verge Rev macOS问题, TUN模式DNS, 系统代理失效， Telegram代理设置
+  - - link
+    - rel: canonical
+      href: https://clashverger.uk/guide/css_injection.htmltml
 ---
 # ClashVergeRevMacosTUN模式、系统代理、闪退等问题修复
 
@@ -24,18 +27,18 @@ head:
 
 - 问题原因: 公司电脑安装有如下类似的安全软件，禁止软件安装服务
 
-![Mac安全软件禁止安装verge服务](../public/assets/faq/macos/mac_safety_app.png)
+![Mac安全软件禁止安装verge服务](/assets/faq/macos/mac_safety_app.png)
 
 - 解决方案: 关闭安全软件或找管理员把 verge 加入白名单
 
 ## 每次重启登陆打开提示 “‘osascript’想要进行更改”
 
-![‘osascript’想要进行更改](../public/assets/faq/macos/mac_osascript.png)
+![‘osascript’想要进行更改](/assets/faq/macos/mac_osascript.png)
 
 - 问题原因: Login Items 中的`won fen`启动项被禁用
 - 解决方案: 系统设置中找到登录选项，打开`won fen`名称的服务启动项
 
-![打开Login Items中的`won fen`名称的服务启动项](../public/assets/faq/macos/mac_login_item.png)
+![打开Login Items中的`won fen`名称的服务启动项](/assets/faq/macos/mac_login_item.png)
 
 ## macOS 系统代理设置修改失败/开关无效
 
@@ -44,11 +47,11 @@ head:
 - 问题原因: 更改锁定的系统偏好设置需要管理员密码，当前可能处于普通权限。
 - 解决方案: `系统偏好设置` -> `安全性与隐私` -> `高级`，关闭 `访问系统范围偏好设置需要输入管理员密码` （不同系统版本的名称略有差异），点击 `完成` 。
 
-![访问系统范围偏好设置需要输入管理员密码](../public/assets/faq/macos/mac_ignore_password.png)
+![访问系统范围偏好设置需要输入管理员密码](/assets/faq/macos/mac_ignore_password.png)
 
 ## macOS 菜单栏左上角图标重叠
 
-![菜单栏左上角图标重叠](../public/assets/faq/macos/mac_icon_duplicated.png)
+![菜单栏左上角图标重叠](/assets/faq/macos/mac_icon_duplicated.png)
 
 - 问题原因: macOS Sonoma 的系统 BUG。
 - 解决方案: `系统偏好设置` -> `显示器`，调整一下显示器分辨率，然后再调回去。
@@ -69,7 +72,7 @@ head:
 
 1.如图所示，在应用内设置代理，默认代理端口`7897`。
   
-![Telegram无法代理](../public/assets/faq/macos/mac_tg.png)
+![Telegram无法代理](/assets/faq/macos/mac_tg.png)
 
 2.下载正常QT版本的Telegram，见[Telegram官方网站：telegram.org](https://telegram.org/moderation)
 
