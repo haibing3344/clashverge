@@ -113,6 +113,7 @@ export default defineConfig({
       provider: 'local'
     }
   },
+  cleanUrls: false, // 禁用干净URL，保留.html后缀
   sitemap: {
     hostname: 'https://clashverge.uk'
   }
