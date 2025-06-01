@@ -4,7 +4,12 @@ export default defineConfig({
   title: "Clash Verge Rev",
   description: "Clash Verge 的延续",
   head: [
-    ['link', { rel: 'icon', href: '/assets/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/assets/favicon.ico' }],
+    ['script', { 
+      async: true, 
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2394457707130437',
+      crossorigin: 'anonymous'
+    }]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
