@@ -45,7 +45,7 @@ features:
     details: WebDav 配置备份和同步
 ---
 
-友情链接：<a href="https://www.yiyuanvpn.org" target="_blank">一元机场</a> &nbsp; &nbsp;   <a href="https://优信云.site" target="_blank">优信云机场</a> &nbsp; &nbsp;   <a href="https://www.clashcn.org" target="_blank">Clash for windows</a> &nbsp; &nbsp; <a href="https://3mao.bid" target="_blank">三毛机场</a> &nbsp; &nbsp;<a href="https://mojie.uk" target="_blank">魔戒机场</a>&nbsp; &nbsp;<a href="https://mihomoparty.bid" target="_blank">Mihomo Party</a>&nbsp; &nbsp;<a href="https://karing.uk" target="_blank">Karing客户端</a>
+友情链接：<a href="https://jichangtuijian.uk" target="_blank">机场推荐</a> &nbsp; &nbsp;<a href="https://www.yiyuanvpn.org" target="_blank">一元机场</a> &nbsp; &nbsp;   <a href="https://优信云.site" target="_blank">优信云机场</a> &nbsp; &nbsp;   <a href="https://www.clashcn.org" target="_blank">Clash for windows</a> &nbsp; &nbsp; <a href="https://3mao.bid" target="_blank">三毛机场</a> &nbsp; &nbsp;<a href="https://mojie.uk" target="_blank">魔戒机场</a>&nbsp; &nbsp;<a href="https://mihomoparty.bid" target="_blank">Mihomo Party</a>&nbsp; &nbsp;<a href="https://karing.uk" target="_blank">Karing客户端</a>
 <style>
 :root {
   --vp-home-hero-name-color: transparent;
