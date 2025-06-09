@@ -31,7 +31,7 @@ head:
 | 4K流媒体、频繁下载 | 5-7 GB | 600+ GB |
 
 
-## 靠谱机场推荐：
+## 性价比机场推荐：
 
 <div class="pricing-container">
 
@@ -131,6 +131,28 @@ head:
 6. 在线设备最多5人
 </div>
 
+<div class="pricing-card">
+  <div class="pricing-title"><span style="color: red;">XXYUN</span></div>
+  <div class="pricing-price">¥8.88 <span class="pricing-unit" >每月</span></div>
+  <a href="https://xxyun.de/4yEURhWn.html" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：100 GB
+- 速度：800Mbps
+- 设备数：不限制
+
+使用说明
+
+1. 流量: 100GB 丨每月订单日重置
+2. BGP＋中转线路丨800M带宽保障
+3. 不限设备使用
+4. 7x24在线客户服务支持
+5. 解锁: Netflix, Disney+, ChatGPT 等
+
+</div>
 
 <div class="pricing-card">
   <div class="pricing-title"><span style="color: red;">老百姓机场</span></div>
@@ -250,9 +272,34 @@ head:
 </div>
 </div>
 
-## 优质机场推荐：
+## 优质靠谱机场推荐：
 
 <div class="pricing-container">
+<div class="pricing-card">
+  <div class="pricing-title">闪狐云</div>
+  <div class="pricing-price">¥20.00 <span class="pricing-unit">每月</span></div>
+  <a href="https://inv02.ffaff.cc/register?aff=WQApz2pv" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：120 GB
+- 速度：不限速
+- 设备数：无限制
+
+使用说明
+
+0. **<span style="color: red;">💛618全场8折优惠码：flashfox618</span>**
+1. BGP隧道中转，IPLC高速内网纯专线出口。
+2. 5大运营商动态优化。
+3. trojan协议，轻量、高速、加密。
+4. 解锁全球流媒体、AI工具。
+5. 无设备和ip限制。
+6. 1000Mbps速率，晚高峰不限速。
+7. 专业人工客服，快速响应。
+</div>
+
 <div class="pricing-card">
   <div class="pricing-title">Taishan</div>
   <div class="pricing-price">¥10.00 <span class="pricing-unit">每月</span></div>
@@ -275,6 +322,77 @@ head:
 5. ✅付款：支付宝、微信、虚拟币
 6. **<span style="color: red;">💛优惠：年付84元</span>**
 7. 💛流量重置：8元
+</div>
+
+<div class="pricing-card">
+  <div class="pricing-title">FlyBit</div>
+  <div class="pricing-price">¥12.00 <span class="pricing-unit">每月</span></div>
+  <a href="https://flybit.best/#/register?code=o7YHNoqs" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：100 GB
+- 速度： 不限速
+- 设备数：无限制
+
+使用说明
+
+1. ✅️ 月付12 | 季付33 | 半年63 | 年付120
+2. ✅️ 流量：100GB/月
+3. ✅️ 设备：不限制，支持家庭成员共享
+4. ✅️ 媒体：解锁流媒体,ChatGPT
+5. ✅️ 传输：SS协议 | Secure隧道
+6. 🚫 仅限个人使用暂不支持退款
+</div>
+
+<div class="pricing-card">
+  <div class="pricing-title">白羊星</div>
+  <div class="pricing-price">¥12.00 <span class="pricing-unit">每月</span></div>
+  <a href="https://baiyangxing.com/#/register?code=I6IGk5n6" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：100 GB
+- 速度： 不限速
+- 设备数：5
+
+使用说明
+
+1. **注册免费体验6小时.**
+2. 每月购买日免费重置流量，手动重置流量 7CNY /次
+3. 多地BGP跨境专线出国
+4. Netfilx/Hulu/Hbo/Disney+/Chatgpt等流媒体
+5. 全球 60+ 国家/地区， 50+ 节点
+6. SS-Obfs协议，支持 5 台设备同时使用
+7. 不支持 ，新疆地区
+</div>
+
+<div class="pricing-card">
+  <div class="pricing-title">狗狗加速</div>
+  <div class="pricing-price">¥15.80 <span class="pricing-unit">每月</span></div>
+  <a href="https://down.dginv.click/#/register?code=El5yzgZo" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：160 GB
+- 速度：150 Mbps
+- 设备数：无限制
+
+使用说明
+
+1. ✅3日1G试用满意购买
+2. ✅半年付9.5折，年付9折
+3. ✅集群负载均衡
+4. ✅解锁流媒体及ChatGPT
+5. ✅不限设备数，全平台通用
+6. ✅当月流量用完请买流量重制套餐重置使用流量
+
 </div>
 
 
@@ -300,6 +418,9 @@ head:
 5. **<span style="color: red;">💛优惠：年付17元/月</span>**
 6. **<span style="color: red;">💛24小時3G流量試用丨滿意後購買</span>**
 </div>
+
+
+
 
 <div class="pricing-card">
   <div class="pricing-title">CHCC</div>
@@ -375,7 +496,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">旗舰款套餐-大流量</div>
   <div class="pricing-price">¥9.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://app.cloudlion.me/#/register?code=rLyT9shh" target="_blank" class="buy-button">
+  <a href="https://my.cloudlion.me/#/register?code=rLyT9shh" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -406,7 +527,7 @@ head:
 - 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)<br>
 - [小旋风：IPLC专线高速稳定！8元/月起](https://cinb01.xxfaff.cc/#/register?inviteCode=80C209ADC772)<br>
 - [大哥云：年付低至7元/月，4年稳定老牌机场](https://ca01.dgy01.cc/#/register?code=JSSN0WQ9)<br>
-- [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://inv01.fatcatcloud.cc/register?aff=X1vZd2wf)<br>
+- [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf)<br>
 - [疾风云：包年 6.9折 优惠码: jf2025](https://homes.tr25.cn?code=ReCm)
 :::
 
