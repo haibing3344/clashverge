@@ -372,26 +372,27 @@ head:
 </div>
 
 <div class="pricing-card">
-  <div class="pricing-title">狗狗加速</div>
-  <div class="pricing-price">¥15.80 <span class="pricing-unit">每月</span></div>
-  <a href="https://down.dginv.click/#/register?code=El5yzgZo" target="_blank" class="buy-button">
+  <div class="pricing-title">银河云</div>
+  <div class="pricing-price">¥8.00 <span class="pricing-unit">每月/<b>年付98元</b></span></div>
+  <a href="https://inv02.galaxyaff.cc/register?aff=la8LavLb" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
     套餐特点
 
-- 流量：160 GB
-- 速度：150 Mbps
+- 流量：50 GB
+- 速度：不限速
 - 设备数：无限制
 
 使用说明
 
-1. ✅3日1G试用满意购买
-2. ✅半年付9.5折，年付9折
-3. ✅集群负载均衡
-4. ✅解锁流媒体及ChatGPT
+1. ✅每月50G流量，全年有效，适用于低使用率用户
+2. ✅全IPLC专线，不限速
+3. ✅原生IP解锁流媒体
+4. ✅解锁 Chatgpt，Tiktok
 5. ✅不限设备数，全平台通用
-6. ✅当月流量用完请买流量重制套餐重置使用流量
+6. ✅高效客服响应
+7. ❌永久流量包不参与任何活动
 
 </div>
 
@@ -423,26 +424,25 @@ head:
 
 
 <div class="pricing-card">
-  <div class="pricing-title">CHCC</div>
-  <div class="pricing-price">¥14.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://chcclink.com/#/register?code=7sWWshuI" target="_blank" class="buy-button">
+  <div class="pricing-title">肥猫云</div>
+  <div class="pricing-price">¥72.00 <span class="pricing-unit">每年</span></div>
+  <a href="https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
     套餐特点
 
-- 流量：200 GB
+- 流量：60 GB
 - 速度： 不限速
 - 设备数：无限制
 
 使用说明
 
-1. **<span style="color: red;">💛每月200G流量用完请更换其他套餐</span>**
-2. 企业级跨境专线 99% SLA保证
-3. 解锁 Netflix ChatGPT 使用权利
-4. 7x24工单支持 确保您售后无忧
-5. 若套餐时间未到，同套餐续订待当前套餐到期后自动到账
-6. 流量不够用，直接更换大流量套餐，重新计算月结日
+1. 每月60GB流量（60G流量适合普通网页浏览,偶尔刷刷短视频用户使用）
+2. IEPL专线传输，不限速，所有节点x1倍率
+3. Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体全解锁，秒开4K，支持8K
+4. 支持ChatGPT、Claude等AI tools
+5. 高性能Trojan协议，不限制设备登录数
 </div>
 
 <div class="pricing-card">
@@ -508,6 +508,7 @@ head:
 
 使用说明
 
+0. **<span style="color: red;">🚀年付 / 一次性套餐限时五折，不限新老用户，每人限用一次。结账时输入优惠码：2025618.活动时间：6月14日 – 6月18日</span>**
 1. 🚀 优质机场领先者，畅享极速网络
 2. 🍬 每月送你1T甜甜的流量
 3. 🖥 集群部署，保障稳定与高性能
@@ -521,14 +522,16 @@ head:
 
 
 ::: tip 🎉 节点推荐
-
+- 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://www.cyberguard.best/#/register?code=XsreC0T5)<br>
 - 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://www.优信云.com/#/register?code=JRtE5uIV)<br>
 - 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://erwan6.net/auth/register?code=BoObCd)<br>
 - 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)<br>
-- [小旋风：IPLC专线高速稳定！8元/月起](https://cinb01.xxfaff.cc/#/register?inviteCode=80C209ADC772)<br>
-- [大哥云：年付低至7元/月，4年稳定老牌机场](https://ca01.dgy01.cc/#/register?code=JSSN0WQ9)<br>
-- [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf)<br>
-- [疾风云：包年 6.9折 优惠码: jf2025](https://homes.tr25.cn?code=ReCm)
+- 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://mojie.app/#/register?code=sSdtPtLo)<br>
+- 🚀 [宝可梦星云：新用户首单：9折优惠码：9999，低至5.9/月 ](https://love.52pokemon.cc/register?code=56ERkkxp)<br>
+- 🚀 [NanoCloud: 绑定TG机器人每天领取免费流量，月付最低1元/月](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)<br>
+- 🚀 [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf)<br>
+- 🚀 [疾风云：包年 6.9折 优惠码: jf2025](https://homes.tr25.cn?code=ReCm)<br>
+- 🚀 [闪狐云：不限速，不限设备。高速专线。20元/月](https://inv02.ffaff.cc/register?aff=WQApz2pv)
 :::
 
 ::: warning  💬 交流群
