@@ -20,13 +20,13 @@ hero:
     width: 192
     height: 192
   actions:
-    - theme: brand
+    - theme: alt
       text: 介绍
-      link: /about
+      link: /about.md
     - theme: alt
       text: 下载
-      link: /install/install
-    - theme: alt
+      link: /install/install.md
+    - theme: brand
       text: 🎉机场推荐
       link: https://1yuan.uk/subscribe.html
 

@@ -16,11 +16,11 @@ export default defineConfig({
     logo: '/assets/logo.png',
     nav: [
       { text: '首页', link: '/' },
-      { text: '介绍', link: '/about' },
-      { text: '下载', link: '/install/install' },
-      { text: '教程', link: '/guide/quickstart' },
+      { text: '介绍', link: '/about.md' },
+      { text: '下载', link: '/install/install.md' },
+      { text: '教程', link: '/guide/quickstart.md' },
       { text: '🎉机场推荐', link: 'https://1yuan.uk/subscribe.html' },
-      { text: '常见问题', link: '/faq/windows' }
+      { text: '常见问题', link: '/faq/windows.md' }
     ],
 
     sidebar: {
@@ -29,14 +29,14 @@ export default defineConfig({
         {
           text: '教程',
           items: [
-            { text: '快速开始', link: '/guide/quickstart' },
-            { text: '订阅导入', link: '/guide/profile' },
-            { text: '导出日志', link: '/guide/log' },
-            { text: '自定义托盘图标', link: '/guide/tray_icon' },
-            { text: '自定义主题/样式', link: '/guide/css_injection' },
-            { text: 'URL Schemes', link: '/guide/url_schemes' },
-            { text: '名词解释', link: '/guide/term' },
-            { text: '自定义规则', link: '/guide/rules' }
+            { text: '快速开始', link: '/guide/quickstart.md' },
+            { text: '订阅导入', link: '/guide/profile.md' },
+            { text: '导出日志', link: '/guide/log.md' },
+            { text: '自定义托盘图标', link: '/guide/tray_icon.md' },
+            { text: '自定义主题/样式', link: '/guide/css_injection.md' },
+            { text: 'URL Schemes', link: '/guide/url_schemes.md' },
+            { text: '名词解释', link: '/guide/term.md' },
+            { text: '自定义规则', link: '/guide/rules.md' }
           ]
         }
       ],
@@ -45,8 +45,8 @@ export default defineConfig({
         {
           text: '下载',
           items: [
-            { text: '下载', link: '/install/install' },
-            { text: '快速入门', link: '/guide/quickstart' }
+            { text: '下载', link: '/install/install.md' },
+            { text: '快速入门', link: '/guide/quickstart.md' }
           ]
         }
       ],
@@ -67,10 +67,10 @@ export default defineConfig({
         {
           text: '常见问题',
           items: [
-            { text: 'Windows', link: '/faq/windows' },
-            { text: 'macOS', link: '/faq/macos' },
-            { text: 'Linux', link: '/faq/linux' },
-            { text: '其它问题', link: '/faq/other' }
+            { text: 'Windows', link: '/faq/windows.md' },
+            { text: 'macOS', link: '/faq/macos.md' },
+            { text: 'Linux', link: '/faq/linux.md' },
+            { text: '其它问题', link: '/faq/other.md' }
 
           ]
         }
@@ -81,8 +81,8 @@ export default defineConfig({
         {
           text: '介绍',
           items: [
-            { text: '介绍', link: '/about' },
-            { text: '快速入门', link: '/guide/quickstart' }
+            { text: '介绍', link: '/about.md' },
+            { text: '快速入门', link: '/guide/quickstart.md' }
           ]
         }
       ]
