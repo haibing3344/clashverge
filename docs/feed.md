@@ -68,6 +68,7 @@ head:
     
     套餐特点
 
+- **<span style="color: red;">618年付 7 折优惠码：618</span>**
 - 流量：100 GB
 - 速度：200 Mbps
 - 设备数：2
@@ -92,7 +93,7 @@ head:
   </a>
     
     套餐特点
-
+- **<span style="color: red;">618年付优惠码：618SALE20，有效期:6月17日--6月27日。</span>**
 - 流量：300 GB
 - 速度：500 Mbps
 - 设备数：5
@@ -134,12 +135,12 @@ head:
 <div class="pricing-card">
   <div class="pricing-title"><span style="color: red;">XXYUN</span></div>
   <div class="pricing-price">¥8.88 <span class="pricing-unit" >每月</span></div>
-  <a href="https://xxyun.de/4yEURhWn.html" target="_blank" class="buy-button">
+  <a href="https://xxyun.de/JAKFEwKc.html" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
     套餐特点
-
+- **<span style="color: red;">618 85折优惠码：xxyun618</span>**
 - 流量：100 GB
 - 速度：800Mbps
 - 设备数：不限制
@@ -183,7 +184,7 @@ head:
   </a>
     
     套餐特点
-
+- **<span style="color: red;">618 8折优惠码：Crazy618</span>**
 - 流量：60 GB
 - 速度：不限速
 - 设备数：无限制
@@ -211,6 +212,7 @@ head:
 - 流量：100 GB
 - 速度：不限速
 - 设备数：3
+- **<span style="color: red;">9折优惠码：qzx888</span>**
 
 使用说明
 
@@ -236,6 +238,7 @@ head:
 - 流量：120 GB
 - 速度：300Mbps
 - 设备数：无限制
+- **<span style="color: red;">年付60一年，折合5元/月。</span>**
 
 使用说明
 
@@ -283,14 +286,13 @@ head:
   </a>
     
     套餐特点
-
+- **<span style="color: red;">💛618全场8折优惠码：flashfox618</span>**
 - 流量：120 GB
 - 速度：不限速
 - 设备数：无限制
 
 使用说明
 
-0. **<span style="color: red;">💛618全场8折优惠码：flashfox618</span>**
 1. BGP隧道中转，IPLC高速内网纯专线出口。
 2. 5大运营商动态优化。
 3. trojan协议，轻量、高速、加密。
@@ -298,6 +300,29 @@ head:
 5. 无设备和ip限制。
 6. 1000Mbps速率，晚高峰不限速。
 7. 专业人工客服，快速响应。
+</div>
+
+<div class="pricing-card">
+  <div class="pricing-title">扬帆云</div>
+  <div class="pricing-price">¥15.99 <span class="pricing-unit">每月</span></div>
+  <a href="https://yftg1.net/register?code=0WEO6ulk" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+- **<span style="color: red;">💛限时年付7折优惠</span>**
+- 流量：100 GB
+- 速度：200M
+- 设备数：2
+
+使用说明
+
+1. 套餐有效期 30 天
+2. 流量每月购买日重置
+3. 最多支持1个用户同时在线
+4. 工单客服支持
+5. **<span style="color: red;">👍全球接入节点</span>**
+6. **<span style="color: red;">👍解锁流媒体</span>**
 </div>
 
 <div class="pricing-card">
@@ -320,7 +345,7 @@ head:
 3. ✅线路：国内三线骨干网入口
 4. ✅支持：工单技术支持+专属售后群
 5. ✅付款：支付宝、微信、虚拟币
-6. **<span style="color: red;">💛优惠：年付84元</span>**
+6. **<span style="color: red;">💛优惠：年付68元，64G 每月</span>**
 7. 💛流量重置：8元
 </div>
 
@@ -336,6 +361,7 @@ head:
 - 流量：100 GB
 - 速度： 不限速
 - 设备数：无限制
+- **<span style="color: red;">💛9折优惠码：flybit</span>**
 
 使用说明
 
@@ -356,6 +382,7 @@ head:
     
     套餐特点
 
+- **<span style="color: red;">年付专享八折优惠码：byx168（仅限年付使用）</span>**
 - 流量：100 GB
 - 速度： 不限速
 - 设备数：5
@@ -380,6 +407,7 @@ head:
     
     套餐特点
 
+- **<span style="color: red;">618 85折优惠码：wuyi85。截止6月30号</span>**
 - 流量：50 GB
 - 速度：不限速
 - 设备数：无限制
@@ -398,32 +426,6 @@ head:
 
 
 <div class="pricing-card">
-  <div class="pricing-title">SSRDog</div>
-  <div class="pricing-price">¥25.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://st1.hosbb.com/#/register?code=WM55GuJt" target="_blank" class="buy-button">
-    <i class="icon-cart"></i> 立即订阅
-  </a>
-    
-    套餐特点
-
-- 流量：150 GB
-- 速度：300 Mbps
-- 设备数：3
-
-使用说明
-
-1. ✅老牌稳定机场
-2. ✅解锁：Netflix、HBO、Disney+、GPT
-3. ✅线路：混合专线
-4. ✅付款：支付宝、微信
-5. **<span style="color: red;">💛优惠：年付17元/月</span>**
-6. **<span style="color: red;">💛24小時3G流量試用丨滿意後購買</span>**
-</div>
-
-
-
-
-<div class="pricing-card">
   <div class="pricing-title">肥猫云</div>
   <div class="pricing-price">¥72.00 <span class="pricing-unit">每年</span></div>
   <a href="https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf" target="_blank" class="buy-button">
@@ -432,6 +434,7 @@ head:
     
     套餐特点
 
+- **<span style="color: red;">618 8折优惠码：happy618</span>**
 - 流量：60 GB
 - 速度： 不限速
 - 设备数：无限制
@@ -496,7 +499,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">旗舰款套餐-大流量</div>
   <div class="pricing-price">¥9.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://my.cloudlion.me/#/register?code=rLyT9shh" target="_blank" class="buy-button">
+  <a href="https://my.cloudlion.me/#/register?code=hUuk650e" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -508,17 +511,41 @@ head:
 
 使用说明
 
-0. **<span style="color: red;">🚀年付 / 一次性套餐限时五折，不限新老用户，每人限用一次。结账时输入优惠码：2025618.活动时间：6月14日 – 6月18日</span>**
 1. 🚀 优质机场领先者，畅享极速网络
 2. 🍬 每月送你1T甜甜的流量
 3. 🖥 集群部署，保障稳定与高性能
-4. v📱 支持多设备连接，无需限制
+4. 📱 支持多设备连接，无需限制
 5. ⚡️ 高达1Gbps的极速体验
 6. 🔓 解锁全球流媒体，畅享无阻
 7. 适合追剧、下载等对流量需求较大的同学使用
 </div>
+
+<div class="pricing-card">
+  <div class="pricing-title">网际快车</div>
+  <div class="pricing-price">¥6.80 <span class="pricing-unit" style="color: red;">不限时</span></div>
+  <a href="https://wjkc66.vip?c=APIXRJ" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：20 GB
+- 速度：不限速
+- 设备数：无限制
+
+使用说明
+
+1. 流量永不过期
+2. 不限设备数量
+3. 4K视频秒开
+4. 回国家宽，新疆可用，游戏专用节点
+5. **<span style="color: red;">💛月付24元，1800G/每月</span>**
 </div>
 
+<div class="pricing-card">
+
+</div>
+</div>
 
 
 ::: tip 🎉 节点推荐
