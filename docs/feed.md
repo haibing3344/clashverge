@@ -62,7 +62,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">优信云<span style="color: red;"><b>👍推荐</b></span></div>
   <div class="pricing-price">¥15.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://www.youxin66.net/#/register?code=JRtE5uIV" target="_blank" class="buy-button">
+  <a href="https://a.suola.link/youxinyun" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -273,6 +273,32 @@ head:
  5. 通知频道群与工单售后保障 
  6. **<span style="color: red;">🚀 优惠超值，包全年仅需40元</span>**
 </div>
+<div class="pricing-card">
+  <div class="pricing-title">淘气兔</div>
+  <div class="pricing-price">7.80 <span class="pricing-unit">每月</span></div>
+  <a href="https://a.suola.link/taoqitu" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：100 GB
+- 速度：不限速
+- 设备数：25
+
+使用说明
+
+
+1. ✓ 每月流量：100G
+2. ✓ 全中转1倍率(15-30个设备链接)
+3. ✓ IEPL专线均为2倍率
+4. ✓ 支持ChatGPT/奈飞/迪士尼等
+5. ✓ 无退款服务，请悉知
+6. ✓ 请自行配置订阅信息
+7. ✓ 如发现恶意公开订阅立即封号
+8. <span style="color: red;">❌新疆无法使用！请勿下单！</span>
+</div>
+
 </div>
 
 ## 优质靠谱机场推荐：
@@ -497,30 +523,6 @@ head:
 </div>
 
 <div class="pricing-card">
-  <div class="pricing-title">旗舰款套餐-大流量</div>
-  <div class="pricing-price">¥9.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://my.cloudlion.me/#/register?code=hUuk650e" target="_blank" class="buy-button">
-    <i class="icon-cart"></i> 立即订阅
-  </a>
-    
-    套餐特点
-
-- 流量：1 T 
-- 速度：1000 Mbps
-- 设备数：无限制
-
-使用说明
-
-1. 🚀 优质机场领先者，畅享极速网络
-2. 🍬 每月送你1T甜甜的流量
-3. 🖥 集群部署，保障稳定与高性能
-4. 📱 支持多设备连接，无需限制
-5. ⚡️ 高达1Gbps的极速体验
-6. 🔓 解锁全球流媒体，畅享无阻
-7. 适合追剧、下载等对流量需求较大的同学使用
-</div>
-
-<div class="pricing-card">
   <div class="pricing-title">网际快车</div>
   <div class="pricing-price">¥6.80 <span class="pricing-unit" style="color: red;">不限时</span></div>
   <a href="https://wjkc66.vip?c=APIXRJ" target="_blank" class="buy-button">
@@ -540,10 +542,6 @@ head:
 3. 4K视频秒开
 4. 回国家宽，新疆可用，游戏专用节点
 5. **<span style="color: red;">💛月付24元，1800G/每月</span>**
-</div>
-
-<div class="pricing-card">
-
 </div>
 </div>
 
