@@ -30,7 +30,7 @@ head:
 
 ## 导入订阅
 
-通过机场或者自建订阅导入节点和配置文件，以下以"[优信云](https://www.优信云.com/#/register?code=JRtE5uIV)"订阅演示：
+通过机场或者自建订阅导入节点和配置文件，以下以"[优信云](https://a.suola.link/youxinyun)"订阅演示：
 
 ![airport_import](/assets/guide/quickstart/airport_import.png)
 

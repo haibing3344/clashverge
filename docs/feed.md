@@ -38,7 +38,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">Cyberguard</div>
   <div class="pricing-price">18.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://www.cyberguard.best/#/register?code=XsreC0T5" target="_blank" class="buy-button">
+  <a href="https://a.suola.link/cyberguard" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -88,7 +88,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">NanoCloud</div>
   <div class="pricing-price">¥10.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://edu.uodoo.bid/auth/register?code=JMiOQDHf" target="_blank" class="buy-button">
+  <a href="https://a.suola.link/nanocloud" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -179,7 +179,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">TNTCloud</div>
   <div class="pricing-price">¥30.00 <span class="pricing-unit" style="color: red;">每季</span></div>
-  <a href="https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml" target="_blank" class="buy-button">
+  <a href="https://a.suola.link/tnt" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -307,7 +307,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">闪狐云</div>
   <div class="pricing-price">¥20.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://inv02.ffaff.cc/register?aff=WQApz2pv" target="_blank" class="buy-button">
+  <a href="https://a.suola.link/shy" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -454,7 +454,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">肥猫云</div>
   <div class="pricing-price">¥72.00 <span class="pricing-unit">每年</span></div>
-  <a href="https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf" target="_blank" class="buy-button">
+  <a href="https://a.suola.link/feimao" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -503,7 +503,7 @@ head:
  <div class="pricing-card">
   <div class="pricing-title">魔戒</div>
   <div class="pricing-price">¥14.90 <span class="pricing-unit" style="color: red;">不限时</span></div>
-  <a href="https://mojie.app/#/register?code=sSdtPtLo" target="_blank" class="buy-button">
+  <a href="https://a.suola.link/mojie" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
