@@ -36,7 +36,7 @@ head:
 
 ## 机场推荐
 
-[扬帆云 —— 技术流机场](https://a.suola.link/yfy)
+[扬帆云 —— 技术流机场](https://c.jichangs.com/yfy)
 - **实力老牌机场**全新推出的高速专线服务，强势支持 Netflix、TVB 等海外流媒体解锁，同时完美兼容 ChatGPT 使用。
 - 覆盖全平台客户端，无论是 Windows、Mac、Linux，还是 Android、iOS，都能轻松畅享高速网络体验！
 - **支持 支付宝、微信支付在线支付。**
@@ -49,11 +49,11 @@ head:
 
 | **套餐** | **月流量** | **在线设备数** | **价格** |                           **购买**                           |
 | :------: | :--------: | :------------: | :------: | :----------------------------------------------------------: |
-| 休闲款套餐 |   50 GB    |      2      | 15元/月  | [注册购买](https://a.suola.link/yfy) |
-| 运动款套餐 |   100 GB   |      3      | 20元/月  | [注册购买](https://a.suola.link/yfy) |
-| 商务款套餐 |   200 GB   |      4     | 30元/月  | [注册购买](https://a.suola.link/yfy) |
-| 专业款套餐 |   350 GB   |      6      | 40元/月  | [注册购买](https://a.suola.link/yfy) |
-| 旗舰款套餐-大流量 |  600 GB   |      6      | 50元/月 | [注册购买](https://a.suola.link/yfy) |
+| 休闲款套餐 |   50 GB    |      2      | 15元/月  | [注册购买](https://c.jichangs.com/yfy) |
+| 运动款套餐 |   100 GB   |      3      | 20元/月  | [注册购买](https://c.jichangs.com/yfy) |
+| 商务款套餐 |   200 GB   |      4     | 30元/月  | [注册购买](https://c.jichangs.com/yfy) |
+| 专业款套餐 |   350 GB   |      6      | 40元/月  | [注册购买](https://c.jichangs.com/yfy) |
+| 旗舰款套餐-大流量 |  600 GB   |      6      | 50元/月 | [注册购买](https://c.jichangs.com/yfy) |
 
 
 
@@ -80,17 +80,17 @@ Clash Verge rev 项目基于/借鉴如下项目:
 GPL-3.0 License. See [License here](https://github.com/clash-verge-rev/clash-verge-rev/blob/main/LICENSE) for details.
 
 ::: tip 🎉 节点推荐
-- 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://a.suola.link/cyberguard)
-- 🚀 [扬帆云：老牌机场分站，年付低至￥11.00/月](https://a.suola.link/yfy)
-- 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://a.suola.link/youxinyun)
-- 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://a.suola.link/erwan)
-- 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://a.suola.link/tnt)
-- 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://a.suola.link/mojie)
-- 🚀 [宝可梦星云：新用户首单：9折优惠码：9999，低至5.9/月 ](https://a.suola.link/pokemon)
-- 🚀 [NanoCloud: 绑定TG机器人每天领取免费流量，月付最低1元/月](https://a.suola.link/nanocloud)
-- 🚀 [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://a.suola.link/feimao)
-- 🚀 [疾风云：包年 6.9折 优惠码: jf2025](https://a.suola.link/jifeng)
-- 🚀 [闪狐云：不限速，不限设备。高速专线。20元/月](https://a.suola.link/shy)
+- 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://c.jichangs.com/cyberguard)
+- 🚀 [扬帆云：老牌机场分站，年付低至￥11.00/月](https://c.jichangs.com/yfy)
+- 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://c.jichangs.com/youxinyun)
+- 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://c.jichangs.com/erwan)
+- 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://c.jichangs.com/tnt)
+- 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://c.jichangs.com/mojie)
+- 🚀 [宝可梦星云：新用户首单：9折优惠码：9999，低至5.9/月 ](https://c.jichangs.com/pokemon)
+- 🚀 [NanoCloud: 绑定TG机器人每天领取免费流量，月付最低1元/月](https://c.jichangs.com/nanocloud)
+- 🚀 [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://c.jichangs.com/feimao)
+- 🚀 [疾风云：包年 6.9折 优惠码: jf2025](https://c.jichangs.com/jifeng)
+- 🚀 [闪狐云：不限速，不限设备。高速专线。20元/月](https://c.jichangs.com/shy)
 :::
 
 ::: warning  💬 交流群

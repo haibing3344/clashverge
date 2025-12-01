@@ -38,7 +38,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">Cyberguard</div>
   <div class="pricing-price">18.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/cyberguard" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/cyberguard" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -62,7 +62,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">优信云<span style="color: red;"><b>👍推荐</b></span></div>
   <div class="pricing-price">¥15.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/youxinyun" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/youxinyun" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -88,7 +88,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">NanoCloud</div>
   <div class="pricing-price">¥10.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/nanocloud" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/nanocloud" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -112,7 +112,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">宝可梦星云</div>
   <div class="pricing-price">¥5.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/pokemon" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/pokemon" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -179,7 +179,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">TNTCloud</div>
   <div class="pricing-price">¥30.00 <span class="pricing-unit" style="color: red;">每季</span></div>
-  <a href="https://a.suola.link/tnt" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/tnt" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -276,7 +276,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">淘气兔</div>
   <div class="pricing-price">7.80 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/taoqitu" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/taoqitu" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -307,7 +307,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">闪狐云</div>
   <div class="pricing-price">¥20.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/shy" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/shy" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -454,7 +454,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">肥猫云</div>
   <div class="pricing-price">¥72.00 <span class="pricing-unit">每年</span></div>
-  <a href="https://a.suola.link/feimao" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/feimao" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -503,7 +503,7 @@ head:
  <div class="pricing-card">
   <div class="pricing-title">魔戒</div>
   <div class="pricing-price">¥14.90 <span class="pricing-unit" style="color: red;">不限时</span></div>
-  <a href="https://a.suola.link/mojie" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/mojie" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -547,7 +547,7 @@ head:
  <div class="pricing-card">
   <div class="pricing-title">良心云</div>
   <div class="pricing-price">¥2.00 <span class="pricing-unit" style="color: red;">每月</span></div>
-  <a href="https://a.suola.link/liangxinyun" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/liangxinyun" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -572,17 +572,17 @@ head:
 
 
 ::: tip 🎉 节点推荐
-- 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://a.suola.link/cyberguard)
-- 🚀 [扬帆云：老牌机场分站，年付低至￥11.00/月](https://a.suola.link/yfy)
-- 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://a.suola.link/youxinyun)
-- 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://a.suola.link/erwan)
-- 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://a.suola.link/tnt)
-- 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://a.suola.link/mojie)
-- 🚀 [宝可梦星云：新用户首单：9折优惠码：9999，低至5.9/月 ](https://a.suola.link/pokemon)
-- 🚀 [NanoCloud: 绑定TG机器人每天领取免费流量，月付最低1元/月](https://a.suola.link/nanocloud)
-- 🚀 [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://a.suola.link/feimao)
-- 🚀 [疾风云：包年 6.9折 优惠码: jf2025](https://a.suola.link/jifeng)
-- 🚀 [闪狐云：不限速，不限设备。高速专线。20元/月](https://a.suola.link/shy)
+- 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://c.jichangs.com/cyberguard)
+- 🚀 [扬帆云：老牌机场分站，年付低至￥11.00/月](https://c.jichangs.com/yfy)
+- 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://c.jichangs.com/youxinyun)
+- 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://c.jichangs.com/erwan)
+- 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://c.jichangs.com/tnt)
+- 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://c.jichangs.com/mojie)
+- 🚀 [宝可梦星云：新用户首单：9折优惠码：9999，低至5.9/月 ](https://c.jichangs.com/pokemon)
+- 🚀 [NanoCloud: 绑定TG机器人每天领取免费流量，月付最低1元/月](https://c.jichangs.com/nanocloud)
+- 🚀 [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://c.jichangs.com/feimao)
+- 🚀 [疾风云：包年 6.9折 优惠码: jf2025](https://c.jichangs.com/jifeng)
+- 🚀 [闪狐云：不限速，不限设备。高速专线。20元/月](https://c.jichangs.com/shy)
 :::
 
 ::: warning  💬 交流群
