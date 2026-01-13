@@ -35,7 +35,7 @@ head:
   | x86 |  |
   | arm64 | [arm64安装包](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/Clash.Verge_2.2.2_arm64-setup.exe)  [内置Webview2版本](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/Clash.Verge_2.2.2_arm64_fixed_webview2-setup.exe)|
 
-  网盘下载地址：[https://wwic.lanzouo.com/b0zjttvgf](https://wwic.lanzouo.com/b0zjttvgf)   密码:68xi
+  网盘下载地址：[http://wwauo.appboz.com/b0zjttvgf](http://wwauo.appboz.com/b0zjttvgf)   密码:68xi
 
 ## Linux
 
@@ -138,7 +138,7 @@ sudo yum localinstall ./Clash.Verge_x.x.x-_xxx.rpm
   | Intel 芯片 |  [x64安装包](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/Clash.Verge_2.2.2_x64.dmg)  |
   | Apple M 芯片 | [aarch安装包](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/Clash.Verge_2.2.2_aarch64.dmg) |
 
-  网盘下载地址：[https://wwic.lanzouo.com/b0zjttvgf](https://wwic.lanzouo.com/b0zjttvgf)   密码:68xi
+  网盘下载地址：[http://wwauo.appboz.com/b0zjttvgf](http://wwauo.appboz.com/b0zjttvgf)   密码:68xi
     
 ![mac_install](/assets/guide/quickstart/mac_install.png)
 
